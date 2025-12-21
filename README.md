@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaa2603&label=Profile%20views&color=0e75b6&style=flat" alt="ankitaa2603" /> </p>
 
+- 🎓 Pursuing B.Tech CSE (3rd Year) at SRMIST, Delhi NCR
+  
+- 📊Current CGPA: 9.63
+
 - 🔭 I’m currently working on *personal projects*.
 
 - 🌱 I’m currently learning *the art of building beautiful interfaces and writing code that feels effortless.*
