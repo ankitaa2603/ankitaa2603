@@ -7,7 +7,7 @@
 
 - 🎓 Pursuing B.Tech CSE (3rd Year) at SRMIST, Delhi NCR
   
-- 📊Current CGPA: 9.63
+- 📊Current CGPA: 9.65
 
 - 🔭 I’m currently working on *personal projects*.
 
