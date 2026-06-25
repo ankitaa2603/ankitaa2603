@@ -1,44 +1,151 @@
-![MasterHead](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif)
-<h1 align="center">Hi 👋, I'm Ankita Gupta</h1>
-<h3 align="center">An enthusiastic full stack developer driven by a strong foundation in Data Science , AI and Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d399b5adccfc6ebac083d14c7825731b09e3244e274657546d2e4ad670e911bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ankita+Gupta+👋;Full-Stack+Developer+💻;Data+Science+%26+AI%2FML+Enthusiast+🤖" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaa2603&label=Profile%20views&color=0e75b6&style=flat" alt="ankitaa2603" /> </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif" width="500">
+</div>
 
-- 🎓 Pursuing B.Tech CSE (3rd Year) at SRMIST, Delhi NCR
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-gupta-6b2a752ab/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ankita_gupta26/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ankitagupta2603)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitagupta2603@gmail.com)
+
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> About Me
+
+```javascript
+const ankita = {
+    name: "Ankita Gupta",
+    role: "Full-Stack Developer & Data Science Enthusiast",
+    location: "SRMIST, Delhi NCR | CGPA: 9.65",
+    
+    expertise: {
+        languages: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
+        frontend: ["React", "Next.js", "Tailwind CSS", "Angular"],
+        backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
+        database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+        aiml: ["TensorFlow", "PyTorch", "Scikit-learn", "NLP", "RAG"],
+        cloud: ["AWS", "Docker", "Kubernetes", "Vercel"]
+    },
+    
+    currentlyExploring: "AI/ML & beautiful interfaces that feel effortless",
+    motto: "I break things just to learn how to build them better 🔧"
+};
+```
+
+## 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="48" height="48" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="48" height="48" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" alt="icon" width="48" height="48" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
+<br>MySQL
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="48" height="48" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="48" height="48" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="icon" width="48" height="48" />
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="48" height="48" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" alt="icon" width="48" height="48" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" alt="icon" width="48" height="48" />
+<br>Figma
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ankitaa2603&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=70a5fd&title_color=70a5fd&icon_color=bf91f3&rank_icon=github" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaa2603&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=70a5fd&title_color=70a5fd" />
+</div>
+
+<div align="center">
+  <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitaa2603&theme=tokyonight&hide_border=true&background=00000000&stroke=70a5fd&ring=70a5fd&fire=bf91f3&currStreakNum=ffffff&sideNums=70a5fd&currStreakLabel=bf91f3&sideLabels=70a5fd&dates=70a5fd" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitaa2603&bg_color=00000000&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitaa2603&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,PullRequest" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<div align="center">
   
-- 📊Current CGPA: 9.65
-
-- 🔭 I’m currently working on *personal projects*.
-
-- 🌱 I’m currently learning *the art of building beautiful interfaces and writing code that feels effortless.*
-
-- 👯 I’m looking to collaborate on *Web Develpoment and Data Science Projects*.
-
-- 🤝 I’m looking for help with *mastering real-world architecture, collaborating on impactful tech, and taking my development skills to the next level.*
-
-- 💬 Ask me about *breaking down complex problems, optimizing code, or crafting seamless user experiences.*
-
-- 📫 How to reach me *ankitagupta2603@gmail.com*
-
-- 📄 Know about my experiences [https://tinyurl.com/ankitaguptaresume](https://tinyurl.com/ankitaguptaresume)
-
-- ⚡ Fun fact *I break things just to learn how to build them better.*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankita-gupta-6b2a752ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankita-gupta-6b2a752ab/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ankitagupta2603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ankitagupta2603" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ankita_gupta26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ankita_gupta26/" height="30" width="40" /></a>
-<a href="https://discord.gg/ankitaa26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ankitaa26" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitaa2603&" alt="ankitaa2603" /></p>
-## 💡 Today's Coding Wisdom
-
-<!--QUOTE_START-->
-> 💡 Stay curious. Keep building.
-<!--QUOTE_END-->
+  ### 💫 Let's connect and create something extraordinary!
+  
+  <br>
+  
+  ![](https://komarev.com/ghpvc/?username=ankitaa2603&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
+</div>
