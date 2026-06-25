@@ -40,5 +40,5 @@
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> "Loading today's wisdom..."
+> 💡 Stay curious. Keep building.
 <!--QUOTE_END-->
