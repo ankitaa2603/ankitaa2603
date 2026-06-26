@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ankita+Gupta+👋;Full-Stack+Developer+💻;Data+Science+%26+AI%2FML+Enthusiast+🤖" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Ankita+Gupta+👋;Data+Science+%26+AI%2FML+Enthusiast+🤖;Machine+Learning+Engineer+📊;Full-Stack+Developer+💻;Turning+Data+into+Insights+✨;Adobe+India+Hackathon+Semi-Finalist+🏆;300%2B+LeetCode+Problems+Solved+⚡" alt="Typing SVG" />
+</p>
 </div>
 
 <div align="center">
@@ -23,7 +25,7 @@
 const ankita = {
     name: "Ankita Gupta",
     role: "Full-Stack Developer & Data Science Enthusiast",
-    location: "SRMIST, Delhi NCR | CGPA: 9.65",
+    location: "SRMIST, Delhi NCR CGPA: 9.65",
     
     expertise: {
         languages: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
