@@ -149,3 +149,7 @@ const ankita = {
   
   ![](https://komarev.com/ghpvc/?username=ankitaa2603&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
+
+<!--QUOTE_START-->
+> 💡 Stay curious. Keep building.
+<!--QUOTE_END-->
