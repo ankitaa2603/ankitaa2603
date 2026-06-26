@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Stay curious. Keep building.
+> 💡 First, solve the problem. Then, write the code. – John Johnson
 <!--QUOTE_END-->
