@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler
+> 💡 Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. – Antoine de Saint-Exupéry
 <!--QUOTE_END-->
