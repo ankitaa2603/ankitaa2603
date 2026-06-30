@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 The art of programming is the art of organizing complexity. – Edsger W. Dijkstra
+> 💡 Before software can be reusable it first has to be usable. – Ralph Johnson
 <!--QUOTE_END-->
