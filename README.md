@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Debugging is twice as hard as writing the code in the first place. – Brian W. Kernighan
+> 💡 It's not a bug — it's an undocumented feature. – Anonymous
 <!--QUOTE_END-->
