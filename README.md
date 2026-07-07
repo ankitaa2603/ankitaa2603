@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 It's not a bug — it's an undocumented feature. – Anonymous
+> 💡 Fix the cause, not the symptom. – Steve Maguire
 <!--QUOTE_END-->
