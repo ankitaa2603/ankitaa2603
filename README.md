@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Knowledge is power. – Francis Bacon
+> 💡 The most disastrous thing that you can ever learn is your first programming language. – Alan Kay
 <!--QUOTE_END-->
