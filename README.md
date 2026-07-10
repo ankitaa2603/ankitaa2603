@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 The most disastrous thing that you can ever learn is your first programming language. – Alan Kay
+> 💡 There are only two hard things in Computer Science: cache invalidation and naming things. – Phil Karlton
 <!--QUOTE_END-->
