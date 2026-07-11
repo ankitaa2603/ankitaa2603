@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 There are only two hard things in Computer Science: cache invalidation and naming things. – Phil Karlton
+> 💡 Truth can only be found in one place: the code. – Robert C. Martin
 <!--QUOTE_END-->
