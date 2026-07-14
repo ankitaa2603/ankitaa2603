@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Truth can only be found in one place: the code. – Robert C. Martin
+> 💡 Optimism is an occupational hazard of programming. – Kent Beck
 <!--QUOTE_END-->
