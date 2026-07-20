@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Talk is cheap. Show me the code. – Linus Torvalds
+> 💡 Optimism is an occupational hazard of programming. – Kent Beck
 <!--QUOTE_END-->
