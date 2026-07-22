@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Java is to JavaScript what car is to Carpet. – Chris Heilmann
+> 💡 Optimism is an occupational hazard of programming. – Kent Beck
 <!--QUOTE_END-->
