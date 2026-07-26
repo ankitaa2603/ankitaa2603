@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 The best way to predict the future is to invent it. – Alan Kay
+> 💡 Weeks of coding can save you hours of planning. – Anonymous
 <!--QUOTE_END-->
