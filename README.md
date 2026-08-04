@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 In order to be irreplaceable, one must always be different. – Coco Chanel
+> 💡 The art of programming is the art of organizing complexity. – Edsger W. Dijkstra
 <!--QUOTE_END-->
