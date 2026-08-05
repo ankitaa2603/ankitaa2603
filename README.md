@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 The art of programming is the art of organizing complexity. – Edsger W. Dijkstra
+> 💡 The function of good software is to make the complex appear to be simple. – Grady Booch
 <!--QUOTE_END-->
