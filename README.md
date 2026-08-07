@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Knowledge is power. – Francis Bacon
+> 💡 One of the best programming skills you can have is knowing when to walk away for a while. – Oscar Godson
 <!--QUOTE_END-->
