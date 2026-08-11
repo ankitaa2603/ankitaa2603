@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. – Dan Salomon
+> 💡 Truth can only be found in one place: the code. – Robert C. Martin
 <!--QUOTE_END-->
