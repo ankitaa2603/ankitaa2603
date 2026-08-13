@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Java is to JavaScript what car is to Carpet. – Chris Heilmann
+> 💡 Simplicity is the soul of efficiency. – Austin Freeman
 <!--QUOTE_END-->
