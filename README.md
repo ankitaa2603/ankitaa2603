@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Simplicity is the soul of efficiency. – Austin Freeman
+> 💡 Debugging is twice as hard as writing the code in the first place. – Brian W. Kernighan
 <!--QUOTE_END-->
