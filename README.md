@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Truth can only be found in one place: the code. – Robert C. Martin
+> 💡 Weeks of coding can save you hours of planning. – Anonymous
 <!--QUOTE_END-->
