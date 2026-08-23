@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 First, solve the problem. Then, write the code. – John Johnson
+> 💡 Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. – Antoine de Saint-Exupéry
 <!--QUOTE_END-->
