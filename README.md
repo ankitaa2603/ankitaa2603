@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Java is to JavaScript what car is to Carpet. – Chris Heilmann
+> 💡 Weeks of coding can save you hours of planning. – Anonymous
 <!--QUOTE_END-->
