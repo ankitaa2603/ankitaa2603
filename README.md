@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Weeks of coding can save you hours of planning. – Anonymous
+> 💡 Fix the cause, not the symptom. – Steve Maguire
 <!--QUOTE_END-->
