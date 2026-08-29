@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Knowledge is power. – Francis Bacon
+> 💡 Fix the cause, not the symptom. – Steve Maguire
 <!--QUOTE_END-->
