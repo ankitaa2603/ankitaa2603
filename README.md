@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 The best error message is the one that never shows up. – Thomas Fuchs
+> 💡 Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson
 <!--QUOTE_END-->
