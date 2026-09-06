@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 The art of programming is the art of organizing complexity. – Edsger W. Dijkstra
+> 💡 Code never lies, comments sometimes do. – Ron Jeffries
 <!--QUOTE_END-->
