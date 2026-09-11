@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson
+> 💡 Optimism is an occupational hazard of programming. – Kent Beck
 <!--QUOTE_END-->
