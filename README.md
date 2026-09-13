@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Simplicity is the soul of efficiency. – Austin Freeman
+> 💡 Knowledge is power. – Francis Bacon
 <!--QUOTE_END-->
