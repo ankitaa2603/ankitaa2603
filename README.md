@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 It's not a bug — it's an undocumented feature. – Anonymous
+> 💡 Experience is the name everyone gives to their mistakes. – Oscar Wilde
 <!--QUOTE_END-->
