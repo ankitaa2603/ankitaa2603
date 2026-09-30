@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Truth can only be found in one place: the code. – Robert C. Martin
+> 💡 Fix the cause, not the symptom. – Steve Maguire
 <!--QUOTE_END-->
