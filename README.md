@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Code never lies, comments sometimes do. – Ron Jeffries
+> 💡 Debugging is twice as hard as writing the code in the first place. – Brian W. Kernighan
 <!--QUOTE_END-->
