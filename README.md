@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Debugging is twice as hard as writing the code in the first place. – Brian W. Kernighan
+> 💡 The most disastrous thing that you can ever learn is your first programming language. – Alan Kay
 <!--QUOTE_END-->
