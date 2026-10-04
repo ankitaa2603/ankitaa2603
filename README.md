@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 The most disastrous thing that you can ever learn is your first programming language. – Alan Kay
+> 💡 When to use iterative development? You should use iterative development only on projects that you want to succeed. – Martin Fowler
 <!--QUOTE_END-->
