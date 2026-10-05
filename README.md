@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 When to use iterative development? You should use iterative development only on projects that you want to succeed. – Martin Fowler
+> 💡 There are only two hard things in Computer Science: cache invalidation and naming things. – Phil Karlton
 <!--QUOTE_END-->
