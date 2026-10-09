@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 When to use iterative development? You should use iterative development only on projects that you want to succeed. – Martin Fowler
+> 💡 Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson
 <!--QUOTE_END-->
