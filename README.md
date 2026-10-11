@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Experience is the name everyone gives to their mistakes. – Oscar Wilde
+> 💡 The art of programming is the art of organizing complexity. – Edsger W. Dijkstra
 <!--QUOTE_END-->
