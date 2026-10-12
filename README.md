@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 The art of programming is the art of organizing complexity. – Edsger W. Dijkstra
+> 💡 When to use iterative development? You should use iterative development only on projects that you want to succeed. – Martin Fowler
 <!--QUOTE_END-->
