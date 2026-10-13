@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 When to use iterative development? You should use iterative development only on projects that you want to succeed. – Martin Fowler
+> 💡 The most disastrous thing that you can ever learn is your first programming language. – Alan Kay
 <!--QUOTE_END-->
