@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 The most disastrous thing that you can ever learn is your first programming language. – Alan Kay
+> 💡 Make it work, make it right, make it fast. – Kent Beck
 <!--QUOTE_END-->
