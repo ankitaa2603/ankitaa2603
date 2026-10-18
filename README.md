@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Ruby is rubbish! PHP is phpantastic! – Nikita Popov
+> 💡 The art of programming is the art of organizing complexity. – Edsger W. Dijkstra
 <!--QUOTE_END-->
