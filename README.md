@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Talk is cheap. Show me the code. – Linus Torvalds
+> 💡 The best way to predict the future is to invent it. – Alan Kay
 <!--QUOTE_END-->
