@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 One of the best programming skills you can have is knowing when to walk away for a while. – Oscar Godson
+> 💡 Truth can only be found in one place: the code. – Robert C. Martin
 <!--QUOTE_END-->
