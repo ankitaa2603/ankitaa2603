@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 There are only two hard things in Computer Science: cache invalidation and naming things. – Phil Karlton
+> 💡 Weeks of coding can save you hours of planning. – Anonymous
 <!--QUOTE_END-->
