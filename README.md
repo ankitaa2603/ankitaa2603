@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Weeks of coding can save you hours of planning. – Anonymous
+> 💡 Experience is the name everyone gives to their mistakes. – Oscar Wilde
 <!--QUOTE_END-->
