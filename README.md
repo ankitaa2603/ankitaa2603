@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Weeks of coding can save you hours of planning. – Anonymous
+> 💡 It's not a bug — it's an undocumented feature. – Anonymous
 <!--QUOTE_END-->
