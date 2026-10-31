@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 It's not a bug — it's an undocumented feature. – Anonymous
+> 💡 There are only two hard things in Computer Science: cache invalidation and naming things. – Phil Karlton
 <!--QUOTE_END-->
