@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 The best error message is the one that never shows up. – Thomas Fuchs
+> 💡 Before software can be reusable it first has to be usable. – Ralph Johnson
 <!--QUOTE_END-->
