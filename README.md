@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 It's not a bug — it's an undocumented feature. – Anonymous
+> 💡 Before software can be reusable it first has to be usable. – Ralph Johnson
 <!--QUOTE_END-->
