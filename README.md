@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 The best way to predict the future is to invent it. – Alan Kay
+> 💡 Code never lies, comments sometimes do. – Ron Jeffries
 <!--QUOTE_END-->
