@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Code never lies, comments sometimes do. – Ron Jeffries
+> 💡 Make it work, make it right, make it fast. – Kent Beck
 <!--QUOTE_END-->
