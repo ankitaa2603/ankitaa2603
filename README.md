@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Knowledge is power. – Francis Bacon
+> 💡 Optimism is an occupational hazard of programming. – Kent Beck
 <!--QUOTE_END-->
