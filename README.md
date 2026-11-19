@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Optimism is an occupational hazard of programming. – Kent Beck
+> 💡 Simplicity is the soul of efficiency. – Austin Freeman
 <!--QUOTE_END-->
