@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Truth can only be found in one place: the code. – Robert C. Martin
+> 💡 Java is to JavaScript what car is to Carpet. – Chris Heilmann
 <!--QUOTE_END-->
