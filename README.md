@@ -153,5 +153,5 @@ const ankita = {
 </div>
 
 <!--QUOTE_START-->
-> 💡 Java is to JavaScript what car is to Carpet. – Chris Heilmann
+> 💡 The best error message is the one that never shows up. – Thomas Fuchs
 <!--QUOTE_END-->
